@@ -1,0 +1,35 @@
+Is ready-to-paste **Setup Guide** ko apni `README.md` file mein daal dein taake jo bhi aapka project clone kare, usay chalane aur Groq API key setup karne mein bilkul aasani ho:
+
+```markdown
+🚀 Getting Started & Setup Guide
+if after follow this step you have problem in runing contact with me through whatsapp(0306-4713642) Email(muhammadbilalhaider522@gmail.com)
+Follow these simple steps to run **HostelMate** locally on your machine:
+
+1. Prerequisites
+* [Flutter SDK](https://docs.flutter.dev/get-started/install) installed and configured
+* Android Studio or VS Code with Flutter & Dart plugins
+* An Android Emulator, physical device, or Windows/Web target
+
+### 2. Clone & Install Dependencies
+```bash
+git clone [https://github.com/muhammadbilalhaider522/hostel_mate.git](https://github.com/muhammadbilalhaider522/hostel_mate.git)
+cd hostel_mate
+flutter pub get
+
+3. Configure Groq API Key (For AI Chatbot)
+
+The built-in AI assistant uses the **Groq LLM API** (and automatically falls back to offline mode if no key is added).
+
+1. Go to [Groq Console](https://console.groq.com/) and create a free account.
+2. Navigate to **API Keys** and click **Create API Key**, then copy it.
+3. Open `lib/services/ai_chat_service.dart` in your project.
+4. Replace `'YOUR_GROQ_API_KEY'` on line 6 with your own key:
+```dart
+static const String _apiKey = 'gsk_your_actual_api_key_here';
+
+ **Security Note:** Never commit or push your personal API key to a public GitHub repository.
+
+4. Run the App
+
+```bash
+flutter run
