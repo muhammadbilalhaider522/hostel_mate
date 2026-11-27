@@ -20,7 +20,7 @@ Backend / Database:  SQLite / REST API
 AI Integration: Groq LLM / API
 
 Getting Started
-Clone the repository:
+Clone the repository: https://github.com/muhammadbilalhaider522/hostel_mate.git
 
 Bash
 git clone <your-repository-url>
