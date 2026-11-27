@@ -1,29 +1,38 @@
-HostelMate — Smart Hostel Management Mobile App
+<h1>HostelMate </h1> <h3>— Smart Hostel Management Mobile App</h3>
 HostelMate is a Flutter-based mobile application designed to streamline communication and daily operations between hostel residents and wardens. It centralizes mess schedules, important announcements, complaint resolution, and an integrated AI assistant in one place.
 
-Key Features
-AI Chatbot Assistant: Instant answers to resident queries regarding hostel rules, timings, and general assistance.
+<h1>Key Features</h1>
+<h3>AI Chatbot Assistant:</h3> Instant answers to resident queries regarding hostel rules, timings, and general assistance.
 
-Daily Mess Menu: View updated breakfast, lunch, and dinner schedules.
+<h3>Daily Mess Menu:</h3> View updated breakfast, lunch, and dinner schedules.
 
-Notices & Announcements: Real-time updates and alerts posted by the hostel warden/administration.
+<h3>Notices & Announcements:</h3> Real-time updates and alerts posted by the hostel warden/administration.
 
-Complaint Management: Submit maintenance or facility complaints and track their resolution status.
+<h3>Complaint Management:</h3> Submit maintenance or facility complaints and track their resolution status.
 
-Role-Based Access: Dedicated workflows for hostel residents and wardens.
+<h3>Role-Based Access:</h3> Dedicated workflows for hostel residents and wardens.
 
-Tech Stack
-Frontend: Flutter & Dart
+<h2>Tech Stack</h2>
+<h3>Frontend:</h3> Flutter & Dart
 
-Backend / Database:  SQLite / REST API 
+<h3>Backend / Database:</h3>  SQLite / REST API 
 
-AI Integration: Groq LLM / API
+<h3>AI Integration:</h3> Groq LLM / API
+============================================
+<h3>Learn about Tools and stack</h3>
+Flutter SDK Download: https://docs.flutter.dev/get-started/install
 
-Getting Started
-Clone the repository: https://github.com/muhammadbilalhaider522/hostel_mate.git
+Android Studio Download: https://developer.android.com/studio
+
+VS Code Download: https://code.visualstudio.com/download
+
+Flutter Learning & Documentation: https://docs.flutter.dev/learn (interactive Dart/Flutter practice ke liye: https://dartpad.dev/)
+==============================
+<h3>Getting Started</h3>
+Clone the repository: hostel_mate.git
 
 Bash
-git clone <your-repository-url>
+git clone (https://github.com/muhammadbilalhaider522/hostel_mate.git)
 Navigate to the project directory:
 
 Bash
@@ -39,4 +48,3 @@ flutter run
 Short GitHub "About" Description
 Flutter mobile app for hostel residents and wardens featuring an AI chatbot, daily mess menu, digital notice board, and complaint tracking.
 
-Agar tumhare paas pubspec.yaml ya koi specific feature list hai jo tum is README mein add karwana chahte ho, to woh paste kar do—main isay update kar dunga.
