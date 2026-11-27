@@ -1,4 +1,4 @@
-<h1>HostelMate </h1> <h3>— Smart Hostel Management Mobile App</h3>
+<h1>HostelMate </h1> <h3> Smart Hostel Management Mobile App</h3>
 HostelMate is a Flutter-based mobile application designed to streamline communication and daily operations between hostel residents and wardens. It centralizes mess schedules, important announcements, complaint resolution, and an integrated AI assistant in one place.
 
 <h1>Key Features</h1>
@@ -18,33 +18,35 @@ HostelMate is a Flutter-based mobile application designed to streamline communic
 <h3>Backend / Database:</h3>  SQLite / REST API 
 
 <h3>AI Integration:</h3> Groq LLM / API
-============================================
-<h3>Learn about Tools and stack</h3>
-Flutter SDK Download: https://docs.flutter.dev/get-started/install
 
-Android Studio Download: https://developer.android.com/studio
+<h2>Learn about Tools and stack</h2>
 
-VS Code Download: https://code.visualstudio.com/download
+<h3>Flutter SDK Download: </h3>https://docs.flutter.dev/get-started/install
 
-Flutter Learning & Documentation: https://docs.flutter.dev/learn (interactive Dart/Flutter practice ke liye: https://dartpad.dev/)
-==============================
-<h3>Getting Started</h3>
-Clone the repository: hostel_mate.git
+<h3>Android Studio Download:</h3> https://developer.android.com/studio
 
-Bash
-git clone (https://github.com/muhammadbilalhaider522/hostel_mate.git)
+<h3>VS Code Download:</h3> https://code.visualstudio.com/download
+
+<h3>Flutter Learning & Documentation:</h3> https://docs.flutter.dev/learn (interactive Dart/Flutter practice ke liye: https://dartpad.dev/)
+
+<h2>Getting Started</h2>
+<h3>Clone the repository:</h3> hostel_mate.git
+
+<h3>Bash</h3>
+git clone https://github.com/muhammadbilalhaider522/hostel_mate.git
 Navigate to the project directory:
 
-Bash
+<h3>Bash</h3>
 cd hostel_mate
 Install dependencies:
 
-Bash
+<h3>Bash</h3>
 flutter pub get
+
 Run the application:
 
-Bash
+<h3>Bash</h3>
 flutter run
-Short GitHub "About" Description
+<h3>Short GitHub "About" Description</h3>
 Flutter mobile app for hostel residents and wardens featuring an AI chatbot, daily mess menu, digital notice board, and complaint tracking.
 
