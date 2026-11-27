@@ -1,17 +1,42 @@
-# hostel_mate
+HostelMate — Smart Hostel Management Mobile App
+HostelMate is a Flutter-based mobile application designed to streamline communication and daily operations between hostel residents and wardens. It centralizes mess schedules, important announcements, complaint resolution, and an integrated AI assistant in one place.
 
-A new Flutter project.
+Key Features
+AI Chatbot Assistant: Instant answers to resident queries regarding hostel rules, timings, and general assistance.
 
-## Getting Started
+Daily Mess Menu: View updated breakfast, lunch, and dinner schedules.
 
-This project is a starting point for a Flutter application.
+Notices & Announcements: Real-time updates and alerts posted by the hostel warden/administration.
 
-A few resources to get you started if this is your first Flutter project:
+Complaint Management: Submit maintenance or facility complaints and track their resolution status.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Role-Based Access: Dedicated workflows for hostel residents and wardens.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tech Stack
+Frontend: Flutter & Dart
+
+Backend / Database:  SQLite / REST API 
+
+AI Integration: Groq LLM / API
+
+Getting Started
+Clone the repository:
+
+Bash
+git clone <your-repository-url>
+Navigate to the project directory:
+
+Bash
+cd hostel_mate
+Install dependencies:
+
+Bash
+flutter pub get
+Run the application:
+
+Bash
+flutter run
+Short GitHub "About" Description
+Flutter mobile app for hostel residents and wardens featuring an AI chatbot, daily mess menu, digital notice board, and complaint tracking.
+
+Agar tumhare paas pubspec.yaml ya koi specific feature list hai jo tum is README mein add karwana chahte ho, to woh paste kar do—main isay update kar dunga.
